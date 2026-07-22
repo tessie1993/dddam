@@ -1,0 +1,6 @@
+{
+  "name": "De Dag Dat Alles Mag Festival 2026",
+  "description": "Official website for De Dag Dat Alles Mag Festival 2026 at De Jungle, Zaandam. Het verjaardagsfestival on 15 August 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
